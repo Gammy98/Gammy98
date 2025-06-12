@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My Special Repository
 
-<!--
-**Gammy98/Gammy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, and welcome to my special repository!  
+Here you will find my projects, ideas, and work related to [specific topic or interest].
 
-Here are some ideas to get you started:
+## About This Repository
+This repository contains various projects that showcase my skills and experiments in software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What's Inside:
+- **Project 1:** Tennismate🎾
+
+
+## 🛠️ Tools & Technologies
+- **Programming Languages:** Java, Python
+- **Frameworks:** Spring
+- **Tools:** Git
+
+## 📫 Contact Me
+- GitHub: [@Gammy98](https://github.com/Gammy98)
+- Email: dnqorgh0410@naver.com
+
+Feel free to reach out if you have any questions or would like to collaborate!
+
